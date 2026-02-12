@@ -1,0 +1,23 @@
+Match_ID,  Match Date,Match Day,Match Type,Team 1,Team 2,Venue,Toss Winner,Toss Decision,Team 1 Score,Team 2 Score,Result
+1,2026-01-09,Friday,League,Mumbai Indians Women,Royal Challengers Bengaluru Women,Navi Mumbai,Royal Challengers Bengaluru Women,Bat,165/8,168/7,RCB Women won by 3 wickets
+2,2026-01-10,Saturday,League,UP Warriorz Women,Gujarat Giants Women,Navi Mumbai,Gujarat Giants Women,Field,142/9,153/7,GG won by 10 runs
+3,2026-01-10,Saturday,League,Mumbai Indians Women,Delhi Capitals Women,Navi Mumbai,Mumbai Indians Women,Bat,182/5,132/9,MI Women won by 50 runs
+4,2026-01-11,Sunday,League,Delhi Capitals Women,Gujarat Giants Women,Navi Mumbai,Delhi Capitals Women,Bat,149/8,153/6,GG Women won by 4 runs
+5,2026-01-12,Monday,League,Royal Challengers Bengaluru Women,UP Warriorz Women,Navi Mumbai,Royal Challengers Bengaluru Women,Field,156/4,147/9,RCB Women won by 9 wickets
+6,2026-01-13,Tuesday,League,Mumbai Indians Women,Gujarat Giants Women,Navi Mumbai,Mumbai Indians Women,Field,170/6,165/9,MI Women won by 7 wickets
+7,2026-01-14,Wednesday,League,UP Warriorz Women,Delhi Capitals Women,Navi Mumbai,Delhi Capitals Women,Field,148/8,149/3,DC Women won by 7 wickets
+8,2026-01-15,Thursday,League,Mumbai Indians Women,UP Warriorz Women,Navi Mumbai,UP Warriorz Women,Field,158/7,159/3,UP Warriorz Women won by 7 wickets
+9,2026-01-16,Friday,League,Royal Challengers Bengaluru Women,Gujarat Giants Women,Navi Mumbai,Royal Challengers Bengaluru Women,Bat,176/4,144/9,RCB Women won by 32 runs
+10,2026-01-17,Saturday,League,UP Warriorz Women,Mumbai Indians Women,Navi Mumbai,UP Warriorz Women,Bat,171/6,149/8,UP Warriorz Women won by 22 runs
+11,2026-01-17,Saturday,League,Delhi Capitals Women,Royal Challengers Bengaluru Women,Navi Mumbai,Royal Challengers Bengaluru Women,Field,151/7,152/2,RCB Women won by 8 wickets
+12,2026-01-19,Monday,League,Royal Challengers Bengaluru Women,Gujarat Giants Women,Vadodara,Gujarat Giants Women,Field,178/6,117/8,RCB won by 61 runs
+13,2026-01-20,Tuesday,League,Delhi Capitals Women,Mumbai Indians Women    ,Vadodara,Delhi Capitals Women,Field,154/5,155/3,DC-W won by 7 wickets
+14,2026-01-22,Thursday,League,Gujarat Giants Women,UP Warriorz Women,Vadodara,UP Warriorz Women,Field,153/8,108/10,GG Women won by 10 runs
+15,2026-01-24,Saturday,League,Royal Challengers Bengaluru Women,Delhi Capitals Women,Vadodara,Delhi Capitals Women,Field,109/10,111/3,DC-W won by 7 wickets
+16,2026-01-26,Monday,League,Royal Challengers Bengaluru Women,Mumbai Indians Women    ,Vadodara,Royal Challengers Bengaluru Women,Field,199/4,189/4,MI Women won by 15 runs
+19,2026-01-27,Tuesday,League,Gujarat Giants Women,Delhi Capitals Women,Vadodara,Delhi Capitals Women,Field,174/9,171/8,GG Women won by 3 wickets
+20,2026-01-29,Thursday,League,UP Warriorz Women, Royal Challengers Bengaluru Women,Vadodara, Royal Challengers Bengaluru Women,Field,143/8,147/2,RCB Women won by 8  wickets
+21,2026-01-30,Friday,League,Gujarat Giants Women,Mumbai Indians Women    ,Vadodara,Gujarat Giants Women,Bat,167/4,156/7,GG Women won by 11 runs
+22,2026-02-01,Sunday,League,Delhi Capitals Women,UP Warriorz Women,Vadodara,Delhi Capitals Women,Field,156/6,157/5,DC Women won by 5 wickets
+23,2026-02-03,Tuesday,Eliminator,Delhi Capitals Women,Gujarat Giants Women,Vadodara,Delhi Capitals Women,Field,162/4,148/8,Delhi Capitals Women won
+24,2026-02-05,Thursday,Final,Royal Challengers Bengaluru Women,Delhi Capitals Women,Vadodara,Royal Challengers Bengaluru Women,Field,204/4,203/4,RCB Women won by 6 wickets
